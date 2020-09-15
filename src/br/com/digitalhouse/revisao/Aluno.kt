@@ -6,7 +6,7 @@ class Aluno (var ra : String, nome : String, sobrenome: String) : Pessoa(nome, s
 
     }
 
-    fun fazLicoes(){
+    fun fazerLicoes(){
 
     }
 
