@@ -1,3 +1,3 @@
 package br.com.digitalhouse.revisao
 
-open class Pessoa (nome : String, sobrenome : String)
+open class Pessoa (var nome : String, var sobrenome : String)
